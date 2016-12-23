@@ -1,0 +1,195 @@
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\zoe\Documents\Visual Studio 2008\Projects\Project1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\student\Desktop\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\student\Desktop\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\student\Desktop\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\zoe\Desktop\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\student\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\zoe\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\zhengh\Desktop\zoe\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\zhengh\Desktop\1\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\zhengh\Desktop\1\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\zhengh\Desktop\1\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\zhengh\Desktop\project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\Interop.Shell32.dll
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\StandAPHerbWebGenesisServicesVS2010.dll
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PLIES.resources
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.image.resources
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cailin\Desktop\Project  Update\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\Interop.Shell32.dll
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PLIES.resources
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.image.resources
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cailin\Desktop\Project H-C\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\Interop.Shell32.dll
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PLIES.resources
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.image.resources
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cailin\Desktop\Project\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\Interop.Shell32.dll
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PLIES.resources
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.image.resources
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\Interop.Shell32.dll
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PLIES.resources
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.image.resources
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\ZHENGH-PC\Users\zhengh\Desktop\share\WindowsFormsApplication1___NEU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\Interop.Shell32.dll
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PLIES.resources
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.image.resources
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Cailin\Desktop\working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Plies.exe.config
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Plies.exe
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Plies.pdb
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\Interop.Shell32.dll
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PLIES.resources
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.image.resources
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\Plies.exe
+C:\Users\Cailin\Desktop\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\Plies.pdb
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Plies.exe.config
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\Interop.Shell32.dll
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\Plies.exe
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\Plies.pdb
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Plies.exe
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Plies.pdb
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PLIES.resources
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.image.resources
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cailin\Desktop\share to hangyan\PLIES TO BE SHOWED\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
